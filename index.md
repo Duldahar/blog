@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[南京地铁规划图](/1357797941.jpg)
+[南京地铁规划图](/1357797941.jpg?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
